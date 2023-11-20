@@ -1,0 +1,24 @@
+UTS Pemrograman Web
+
+Nama: Muhammad Yuanraj Firjatullah
+NIM: 22416255201188
+Kelas: IF22A
+
+Teknik Informatika
+
+1.  Dalam pengembangan aplikasi, sebuah framework adalah kerangka atau struktur kerja yang telah disediakan untuk membantu programmer dalam membuat aplikasi.
+    framework menyediakan alat dan aturan baku yang mempercepat proses pengembangan.
+    contoh: Membangun rumah. Tukang banguna bisa mulai dari awal, dengan membuat membuat pondasi. 
+    Atau, bisa menggunakan bahan-bahan konstruksi standar, rencana yang telah siap, dan metode yang telah diuji untuk mempercepat proses pembangunan.
+
+2.1. Pembuatan help center pada instansi/perusahaan (Travel umroh)
+
+2.2.    Jobdesk:   
+        Adhitya Putra Pradipa (22416255201262): Membuat Database dan Pemrograman Berorientasi Objek
+        Ardiansyah Aziz Sunarya (22416255201264): Membuat laporan Analisis Desain Berorientasi Objek
+        Muhammad Yuanraj Firjatullah (22416255201188): Membuat Program website
+
+2.3 Permasalahan yang terdapat pada project kami (help centee travel umroh) adalah para client tidak bisa mengajukan komplain, memesan dan membatalkan tiket secara online
+    Solusi: kami akan membuatkan website yang berisikan pengajuan komplain, kritik saran, pembelian dan pembatalan tiket, lengkap dengan harga dan metode pembayaran dan lansgung 
+    diarahkan menuju bagian pemesanan (whatsapp)
+    
